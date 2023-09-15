@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+#q2
 data = pd.read_csv('climate.csv')
 
 years = data['Year']
